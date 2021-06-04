@@ -7,6 +7,8 @@ int arr[10],i,n;
 
 void main(){
 	getArray();
+	addOne(arr);
+	printArray(arr);
 	
 	
 }
